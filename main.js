@@ -16,7 +16,7 @@
     // ================= CONFIGURACIÓN =================
     // Introduce los códigos de las 5 asignaturas de este cuatrimestre.
     // Ejemplo: Para "5388-25-0301-A", usa "0301"
-    const MIS_ASIGNATURAS_CUATRI = ["0306", "0307", "0308", "0309", "0809"];
+    const MIS_ASIGNATURAS_CUATRI = ["0306", "0307", "0308", "0309", "0865"];
     // =================================================
 
     function aplicarFiltro() {
